@@ -1,0 +1,18 @@
+$headings-font-family: "Times New Roman", Times, serif;
+
+$primary: #1c2127;
+$dark: #04040c;
+// $headings-color: #284876;
+$card-bg: #04040c;
+
+.bg-body {
+  background-color: #1c2127;
+}
+
+.fs-perso {
+  font-size: 200%;
+}
+
+.perso-focus:hover {
+  border: solid 1px grey;
+}
