@@ -4,6 +4,8 @@ Création d'un site factice de e-commerce de jeux vidéo
 
 ## Adresse d'hébergement du site internet
 
+https://crysw.github.io/Assassin-s_Creed/
+
 ## Technologie employée
 
 - HTML5
